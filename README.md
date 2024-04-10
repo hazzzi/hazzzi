@@ -1,2 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Intro&fontSize=60)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzzi)](#)
+![state](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazzzi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hazzzi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hazzzi&theme=github)
